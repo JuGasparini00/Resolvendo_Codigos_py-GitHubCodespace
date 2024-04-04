@@ -1,6 +1,6 @@
-# Resolvendo Códigos em Python com o Github Codspace
+# Resolvendo Códigos em Python com o Github Codespace
 
-Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Codspace.
+Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Codespace.
 
 ## 1 - Concatenando Dados 🐾
 
