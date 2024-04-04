@@ -1,11 +1,6 @@
-# Resolvendo Códigos em Python com o Github Copilot
+# Resolvendo Códigos em Python com o Github Codspace
 
-Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot.
-
-### Atenção ⚠️ 
-
-Não tem acesso ao Github Copilot?! Não tem problema!! 
-Que tal utilizar o [ChatGPT](https://chat.openai.com/) como seu copiloto de estudos ??
+Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Codspace.
 
 ## 1 - Concatenando Dados 🐾
 
@@ -17,9 +12,6 @@ O que aprenderemos?
 * Manipulação de Strings (string)
 * Concatenação
 * Entrada de dados
-* Utilização eficiente do Github Copilot
-
-<br>
 
 ## 2 - Repetindo Textos ✏️
 
@@ -32,9 +24,6 @@ O que aprenderemos?
 * Números Inteiros (int)
 * Múltiplas repetições
 * Entrada de dados
-* Aproveitar as sugestões do Github Copilot
-
-<br>
 
 ## 3 - Operações Matemáticas Simples 📐
 
@@ -45,9 +34,6 @@ O que aprenderemos?
 
 * Operações Matemáticas Básicas
 * Entrada de dados
-* Utilização eficiente do Github Copilot
-
-<br>
 
 ## 4 - Verificando Números Pares e Ímpares 🧮
 
@@ -57,10 +43,6 @@ Uma dica é: Utilize condicionais para realizar a verificação e, se possível,
 O que aprenderemos?
 * Utilização de condicionais em Python (if, else) para realizar verificações.
 * Introdução ao conceito de operador de módulo (%) para verificar se um número é par ou ímpar.
-* Exploração do uso de uma ferramenta de IA, como o Github Copilot, para otimizar a estrutura do código.
-
-
-<br>
 
 ## 5 - Calculando Média de Notas 📚
 
@@ -71,8 +53,6 @@ O que aprenderemos?
 * Uso de variáveis para armazenar dados fornecidos pelo usuário.
 * Aplicação de operadores aritméticos (+, /) para calcular a média de um conjunto de valores.
 * Prática na solicitação e manipulação de entrada do usuário.
-
-<br>
 
 ## 6 - Verificando Palíndromos 🔄
 
